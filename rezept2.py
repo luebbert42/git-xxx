@@ -1,5 +1,4 @@
 def abgehackte_finger():
-    print("Mandelstift in Wuerstchen, Wuerstchen auseiannderziehen.")
-
-# Yeah
+    print("Mandelstift in Wuerstchen, die leckeren Wuerstchen weit auseiannderziehen.")
+    
 abgehackte_finger()   
